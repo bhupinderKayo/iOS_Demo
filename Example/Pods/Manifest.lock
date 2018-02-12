@@ -1,0 +1,16 @@
+PODS:
+  - iOS_demo (0.1.0)
+
+DEPENDENCIES:
+  - iOS_demo (from `../`)
+
+EXTERNAL SOURCES:
+  iOS_demo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iOS_demo: c1253b77e284d92ace9b78d7d51b9df8cae16c3f
+
+PODFILE CHECKSUM: 268a17b81768c7b48291ffc41f1fe68d2444c97b
+
+COCOAPODS: 1.2.1
